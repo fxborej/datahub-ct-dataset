@@ -14,5 +14,5 @@
   "navLinks": [
     { "href": "https://datahub.io/docs", "name": "Docs" }
   ],
-  "showSidebar": false
+  "showSidebar": true
 }
